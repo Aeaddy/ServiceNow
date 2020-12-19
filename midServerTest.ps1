@@ -1,0 +1,1 @@
+﻿write-host "First argument is" $Args[0]
